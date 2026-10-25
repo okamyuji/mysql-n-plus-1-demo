@@ -1,6 +1,6 @@
 module mysql-n-plus-1-demo
 
-go 1.25
+go 1.26.10
 
 require (
 	github.com/go-sql-driver/mysql v1.8.1
